@@ -31,6 +31,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 > 環境還不知道怎麼設
 
+---
+
 2. **Nullcon HackIM 2020**
 	- [ZeldaAdventures](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaAdventures)
 	- [ZeldaInSpace](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaInSpace)  
@@ -39,8 +41,87 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
  	https://medium.com/@roottusk/helping-zelda-capture-flags-nullcon-hackim-2020-f2480099cc3c  
 	https://devploit.dev/2020/02/09/nullconHackIM-ZeldaAdventures.html
+<details>
+<summary>Writeup</summary>
+
+#### **ZeldaAdventures**
+
+#### **Zelda and the Zombies**
+
+- 題目敘述
+    
+    Welcome to Zelda adventures.
+    
+    You wake up in Zelda land. Realizing you are the lone survivor to a deadly virus and you are surrounded by zombies. Zelda remembers the words of his master. He said, "It would take years for any mortal man to kill those zombies".
+    
+    tl;dr: Kill any 1 NPC to get the flag.
+    
+    This challenge does not follow the flag format
+    
+    Author: @lionaneesh
+    
+
+#### solution:
+
+目標是要擊殺一隻殭屍拿到flag
+
+有兩種解法:
+
+- 使用dnSpy修改角色攻擊數值
+    
+    修改這段代碼，位置:enmey→TakeDange
+    
+    ```csharp
+    // Token: 0x06000006 RID: 6
+    	private void TakeDamage(float damage)
+    	{
+    		this.health -= damage * 1000000f;
+    		if (this.health <= 0f)
+    		{
+    			base.StartCoroutine(this.ShowSome());
+    			base.gameObject.SetActive(false);
+    		}
+    	}
+    ```
+    
+- 使用cheatEngin抓到殭屍血量
+
+<aside>
+⛳REVOLUTIONSTARTSWITHME
+
+</aside>
+
+## **Zelda at the Swamp**
+
+- 題目敘述
+    
+    Zelda realized that he could not only fight on land but on waters as well.
+    
+    Head to FlagTown and cross the pond to get to the flag!
+    
+    This challenge does not follow the flag format
+    
+    Author: @lionaneesh
+    
+
+### solution
+
+目標是穿過沼澤拿到flag
+
+兩種解法:
+
+- 用cheatEngin抓取角色x,y座標
+- 讓emey去推角色讓角色被擠到終點
+
+<aside>
+⛳BENDTHERULES42PIRATE
+
+</aside>
+
+</details>
 
 
+---
 
 3. **Pwn Adventure Series by Vector35**
 	- [PwnAdventure Sourcery (In Browser)](https://sourcery.pwnadventure.com/)
@@ -180,7 +261,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 	https://explained.re/posts/flare-on7-wednesday/   
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
- 
+	
 ---
    
 ### Retro [Gameboy/NES]
