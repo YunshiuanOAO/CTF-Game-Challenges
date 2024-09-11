@@ -27,13 +27,20 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	Solution Videos  
 	https://youtu.be/8bjFplctDE0  
 	https://youtu.be/j0taw78tCYs  
+	https://f3real.github.io/arcanesector_maze.html
+
+> 環境還不知道怎麼設
 
 2. **Nullcon HackIM 2020**
 	- [ZeldaAdventures](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaAdventures)
 	- [ZeldaInSpace](https://github.com/nullcon/hackim-2020/tree/master/zelda/ZeldaInSpace)  
 	
+	
+
  	https://medium.com/@roottusk/helping-zelda-capture-flags-nullcon-hackim-2020-f2480099cc3c  
 	https://devploit.dev/2020/02/09/nullconHackIM-ZeldaAdventures.html
+
+
 
 3. **Pwn Adventure Series by Vector35**
 	- [PwnAdventure Sourcery (In Browser)](https://sourcery.pwnadventure.com/)
@@ -173,12 +180,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
 	https://explained.re/posts/flare-on7-wednesday/   
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
-
-24. **NorthSec CTF 2019**
-	- DOOM
-
-	http://www.agardner.me/securit/ctf/northsec/2019/2019/05/19/northsec-ctf-part-1-doom.html  
-	https://re-dojo.github.io/write-ups/2019-05-26-nsec-2019-doom/  
+ 
 ---
    
 ### Retro [Gameboy/NES]
