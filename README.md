@@ -255,28 +255,45 @@ This list includes game challenges I encountered while playing ctfs and reading 
 	https://github.com/RickdeJager/CTF/blob/master/ALLES2020/ALLESCraft/writeup.md   
 
 23. **Flare-On 7 (2020)**
+
 	- [Challenge-3 - Wednesday](https://github.com/aleeamini/Flareon7-2020/raw/main/3/3_-_wednesday.7z)  
 
 	https://explained.re/posts/flare-on7-wednesday/   
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
 	
+---
+
 24. **picoCTF 2023**
+
 	- [No way out](https://play.picoctf.org/practice/challenge/361?difficulty=3&page=1&search=No)
 
 	https://yunshiuan.com/picoCTF-NoWayOut/
 
+---
+
 25. **2023 AIS3 Pre-exam**
-	-[Pacman](challenge/2023AIS3PreExam-pacman/pacman.exe)
+
+	- [Pacman](challenge/2023AIS3PreExam-pacman/pacman.exe)
+
+---
 
 26. **2023 HITCON CTF**
-	-[CrazyArcade](challenge/2023HITCONCTFCrazy-Arcade/CrazyArcade.exe)
+
+	- [CrazyArcade](challenge/2023HITCONCTFCrazy-Arcade/CrazyArcade.exe)
+
 
 ---
 
-25. **AIS3 202
+27. **bcactf 2024**
+
+	- [fps-frenzy](https://github.com/BCACTF/bcactf-5.0/blob/main/fps-frenzy/chall.yaml)
+
+writeup:
+
+https://github.com/BCACTF/bcactf-5.0/blob/main/fps-frenzy/solve.txt
 
 ---
-   
+
 ### Retro [Gameboy/NES]
   
   
@@ -387,6 +404,17 @@ This list includes game challenges I encountered while playing ctfs and reading 
 
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#flag_resolution    
 
+---
+
+19. **hxp CTF2021**
+	- [baby is you](https://2021.ctf.link/assets/files/baba%20is%20you-c87b9ac0a37f2d0d.tar.xz)
+
+	writeup:
+
+	https://github.com/Sandr0x00/gameboy-is-you/tree/main/writeup
+
+---
+
 
 ---
 
@@ -457,10 +485,3 @@ Most of the web games are dead!
 
 
 ---
-
-## Contributing
-
-Help me in keeping this list updated by :  
-
-- Providing new games you encounter in ctfs to me over Twitter : [@MrT4ntr4](https://twitter.com/MrT4ntr4)
-- Opening Pull Requests
