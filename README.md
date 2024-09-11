@@ -5,10 +5,6 @@ But the difficult part is finding out the Game challenges from previous ctfs.
 
 This list includes game challenges I encountered while playing ctfs and reading writeups.  
 
-<img src="assets/follow_white_rabbit.jpg" alt="cscg2020_rabbit" height="420"/>
-
-Also just FYI as some of the gameservers are offline and there is no clear way to set it up or the developers have not opensourced it we can't play it now.  
-
 ## Contents
 
 [PC Games](#pc-games)  
@@ -41,6 +37,8 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 
  	https://medium.com/@roottusk/helping-zelda-capture-flags-nullcon-hackim-2020-f2480099cc3c  
 	https://devploit.dev/2020/02/09/nullconHackIM-ZeldaAdventures.html
+
+
 <details>
 <summary>Writeup</summary>
 
@@ -226,7 +224,7 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://s3-ap-southeast-1.amazonaws.com/he-public-data/pong-writeupd842017.pdf  
 
 17. **HackTheVote CTF 2016**
-	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/reversing/theWall)
+	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/reversing/theWall)asd
   
 	https://emanuelecozzi.net/posts/ctf/how-to-fly-with-radare2
 
@@ -262,6 +260,21 @@ Also just FYI as some of the gameservers are offline and there is no clear way t
 	https://explained.re/posts/flare-on7-wednesday/   
 	https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/flareon7-challenge3-solution.pdf  
 	
+24. **picoCTF 2023**
+	- [No way out](https://play.picoctf.org/practice/challenge/361?difficulty=3&page=1&search=No)
+
+	https://yunshiuan.com/picoCTF-NoWayOut/
+
+25. **2023 AIS3 Pre-exam**
+	-[Pacman](challenge/2023AIS3PreExam-pacman/pacman.exe)
+
+26. **2023 HITCON CTF**
+	-[CrazyArcade](challenge/2023HITCONCTFCrazy-Arcade/CrazyArcade.exe)
+
+---
+
+25. **AIS3 202
+
 ---
    
 ### Retro [Gameboy/NES]
