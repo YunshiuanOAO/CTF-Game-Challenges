@@ -288,9 +288,9 @@ This list includes game challenges I encountered while playing ctfs and reading 
 
 	- [fps-frenzy](https://github.com/BCACTF/bcactf-5.0/blob/main/fps-frenzy/chall.yaml)
 
-writeup:
 
-https://github.com/BCACTF/bcactf-5.0/blob/main/fps-frenzy/solve.txt
+	writeup:
+	https://github.com/BCACTF/bcactf-5.0/blob/mainfps-frenzy/solve.txt
 
 ---
 
