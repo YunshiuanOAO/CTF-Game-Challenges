@@ -10,7 +10,6 @@ This list includes game challenges I encountered while playing ctfs and reading 
 [PC Games](#pc-games)  
 [Retro [Gameboy/NES]](#retro-gameboynes)  
 [Android](#android)  
-[Web](#web)  
 
 ---
 
@@ -224,9 +223,10 @@ This list includes game challenges I encountered while playing ctfs and reading 
 	https://s3-ap-southeast-1.amazonaws.com/he-public-data/pong-writeupd842017.pdf  
 
 17. **HackTheVote CTF 2016**
-	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/reversing/theWall)asd
+	- [The Wall](https://github.com/RPISEC/HackTheVote/tree/master/2016/reversing/theWall)
   
 	https://emanuelecozzi.net/posts/ctf/how-to-fly-with-radare2
+	> 需要在本機架設mintest伺服器，架設有bug
 
 18. **Plaid CTF 2020**
 	- [Watness 2 [Mac]](https://ctf.harrisongreen.me/code/2020/plaidctf/game_cleaned.rc1)
@@ -415,9 +415,6 @@ This list includes game challenges I encountered while playing ctfs and reading 
 
 ---
 
-
----
-
 ### Android
   
   
@@ -448,40 +445,5 @@ This list includes game challenges I encountered while playing ctfs and reading 
 	https://abhaynayar.com/ctf/alles.html  
 	https://github.com/ARESxCyber/Writeups/tree/master/ALLES!%20CTF%202020/prehistoric%20mario  
 	https://blog.d1r3wolf.com/2020/09/alles-ctf-2020-writeups.html#prehistoric_mario  
-
----
-
-### Web
-
-Most of the web games are dead!   
-
-1. **CSAW CTF Finals 2018**
-	-  [Wic Wac Woe](https://github.com/osirislab/CSAW-CTF-2018-Finals/tree/a25d847da426baa6ebe54545ac540e12ab6408ee/pwn/wic_wac_woe)
-
-	https://zackorndorff.com/2018/11/13/csaw-ctf-finals-2018-wic-wac-woe-1-writeup/
-
-2. **Plaid CTF 2019**
-	- Watness  
-  
-	http://blog.rb-tree.xyz/2019/04/22/plaidctf-2019-the-wat-ness/  
-
-3. **TJCTF 2020**
-	- Gamer W
-
-	https://canirudh.codes/posts/tjctf-gamerw-writeup/  
-
-4. **Bountycon 2020**
-	- Proof-of-Game
-
-	https://kishanbagaria.com/bountycon-2020/#proof-of-game--web--published-dec-30  
-	
-5. **Dice CTF 2021**
-	- [DICE IS YOU](https://github.com/dicegang/dicectf-2021-challs/tree/master/rev/dice-is-you)  
-
-	https://thegoonies.github.io/2021/02/08/dicectf-2021-rev-dice-is-you/  
-	https://debugmen.dev/ctf-writeup/2021/02/08/diceisyou.html  
-	https://github.com/nreusch/writeups/blob/master/dicectf_2021/writeup.md  
-
-
 
 ---
